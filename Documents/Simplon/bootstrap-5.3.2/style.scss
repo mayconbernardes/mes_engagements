@@ -1,0 +1,71 @@
+@import "scss/bootstrap.scss";
+body{
+    background-color:rgb(248, 248, 248)
+}
+
+.navbar
+{
+    position: relative;
+}
+
+
+// img
+// {
+// max-width: 40%;
+// max-height: 40%;
+// padding-left: 70px;
+// padding-top: 30px;
+// justify-content: center;
+
+// }
+// h5, p , .sr-only
+// {
+//     color: rgb(57, 41, 232);
+// }
+// .card
+// {
+//     padding-top: 50px;
+   
+//     align-items: center;
+//     justify-content: left;
+// }
+nav
+{
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+}
+.nav-link
+{
+    border: 2px solid rgb(164, 164, 164);
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    justify-content: space-around;
+}
+.main__filters 
+{ 
+    color: rgb(255, 4, 0);
+    margin-top: 20px;
+    padding: 30px;
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+    
+    
+    
+}
+
+.block
+{
+    margin-top: 10px;
+    padding: 30px;
+    display: flex;
+    margin-left: 40px;
+    justify-content: center;
+    background-color: rgb(227, 232, 232);
+    border-radius: 10%;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
+    
+    
+}
+
+
